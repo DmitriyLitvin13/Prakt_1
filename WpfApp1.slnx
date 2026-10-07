@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LibMas/LibMas.csproj" />
+  <Project Path="Lib_8/Lib_8.csproj" />
+  <Project Path="WpfApp1/WpfApp1.csproj" />
+</Solution>
